@@ -1,4 +1,4 @@
-#How to recreate the demo:
+# How to recreate the demo:  
 From Azure portal create a Custom Vision service.  
 Go to the Custom Vision site:https://customvision.ai/  
 Crete a new project *(Be carefull for the 2 projects max limit for free tier)*
