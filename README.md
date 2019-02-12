@@ -2,7 +2,7 @@
 Here I share my demos for Azure Cognitive Services:
 
 1. Speech Api Demos:  
-   [Speech API demo notebook](./Speech API demo notebook.ipynb)
+   [Speech API demo notebook](./Speech_API_demo_notebook.ipynb)
 2. Computer Vision Api Demos:  
    [OCR Handwriting demo notebook](./OCR_handwriting.ipynb)
 3. Custom Vision api Demos:  
